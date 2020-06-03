@@ -26,7 +26,9 @@
     ]
   },
   "dependencies": {
+    "express": "^4.17.1",
     "next": "latest",
+    "next-translate": "^0.17.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
